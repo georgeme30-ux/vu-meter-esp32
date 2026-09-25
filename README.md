@@ -1,4 +1,4 @@
-# 🎵 Analizador de Espectro con ESP32-S3
+# 🎵 ESP32-S3
 
 Sistema de audio en tiempo real con FFT, transmisión OLED y WiFi al celular.
 
