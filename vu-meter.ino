@@ -1,4 +1,4 @@
-/*
+/*                         25sep2026 JME
  * VU METER FFT - 2 MODOS (BARRAS / ESPECTRO)
  * ESP32-S3-N16R8
  * 
